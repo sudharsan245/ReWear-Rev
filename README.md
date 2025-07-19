@@ -1,3 +1,2 @@
-# odoo_rewear
-Problem Statement: ReWear – Community Clothing Exchange
-Team leader's email: sudharsansendhilkumar@gmail.com
+ReWear Revolution
+The aim of this project is to reduce the carbon footprint produced by the clothes we wear
